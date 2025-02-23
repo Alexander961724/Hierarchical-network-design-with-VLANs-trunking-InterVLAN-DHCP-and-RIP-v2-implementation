@@ -1,6 +1,6 @@
 # Hierarchical-network-design-with-VLANs-trunking-InterVLAN-DHCP-and-RIP-v2-implementation
 # 🌐 Network Infrastructure Project  
-./Campus-Simulation-Project.png 
+![Network Topology](./Campus-Simulation-Project.png) 
 
 This project implements a **Hierarchical Network Model** with VLANs, trunking, InterVLAN routing, DHCP, and RIPv2.
 
